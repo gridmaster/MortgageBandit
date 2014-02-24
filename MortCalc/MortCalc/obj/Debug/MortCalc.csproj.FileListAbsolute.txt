@@ -1,0 +1,12 @@
+C:\Projects\MortCalc\MortCalc\bin\Debug\MortCalc.exe.config
+C:\Projects\MortCalc\MortCalc\bin\Debug\MortCalc.exe
+C:\Projects\MortCalc\MortCalc\bin\Debug\MortCalc.pdb
+C:\Projects\MortCalc\MortCalc\obj\Debug\MortCalc.csprojResolveAssemblyReference.cache
+C:\Projects\MortCalc\MortCalc\obj\Debug\MortCalc.exe
+C:\Projects\MortCalc\MortCalc\obj\Debug\MortCalc.pdb
+C:\Projects\MortgageBandit\MortCalc\MortCalc\bin\Debug\MortCalc.exe.config
+C:\Projects\MortgageBandit\MortCalc\MortCalc\obj\Debug\MortCalc.exe
+C:\Projects\MortgageBandit\MortCalc\MortCalc\obj\Debug\MortCalc.pdb
+C:\Projects\MortgageBandit\MortCalc\MortCalc\bin\Debug\MortCalc.exe
+C:\Projects\MortgageBandit\MortCalc\MortCalc\bin\Debug\MortCalc.pdb
+C:\Projects\MortgageBandit\MortCalc\MortCalc\obj\Debug\MortCalc.csprojResolveAssemblyReference.cache

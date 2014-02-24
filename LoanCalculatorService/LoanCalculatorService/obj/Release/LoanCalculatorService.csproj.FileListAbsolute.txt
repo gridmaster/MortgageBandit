@@ -1,0 +1,12 @@
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\LoanCalculatorService.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\LoanCalculatorService.pdb
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\Newtonsoft.Json.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Net.Http.Formatting.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Web.Http.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Web.Http.WebHost.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\Newtonsoft.Json.xml
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Net.Http.Formatting.xml
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Web.Http.xml
+C:\Projects\LoanCalculatorService\LoanCalculatorService\bin\Release\System.Web.Http.WebHost.xml
+C:\Projects\LoanCalculatorService\LoanCalculatorService\obj\Release\LoanCalculatorService.dll
+C:\Projects\LoanCalculatorService\LoanCalculatorService\obj\Release\LoanCalculatorService.pdb

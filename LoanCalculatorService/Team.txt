@@ -1,0 +1,18 @@
+{
+   "team":[
+      {
+         "v1":"1",
+         "eighty_min_score":"11",
+         "home_or_away":"home",
+         "score":"22",
+         "team_id":"500"
+      },
+      {
+         "v1":"2",
+         "eighty_min_score":"22",
+         "home_or_away":"away",
+         "score":"30",
+         "team_id":"600"
+      }
+   ]
+}

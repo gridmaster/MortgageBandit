@@ -1,0 +1,11 @@
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\EatRESTMortCalc.exe.config
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\EatRESTMortCalc.exe
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\EatRESTMortCalc.pdb
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\obj\Debug\EatRESTMortCalc.exe
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\obj\Debug\EatRESTMortCalc.pdb
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\obj\Debug\EatRESTMortCalc.csprojResolveAssemblyReference.cache
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\XMLService.dll
+C:\Projects\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\XMLService.pdb
+C:\Projects\MortgageBandit\EatRESTMortCalc\EatRESTMortCalc\bin\Debug\EatRESTMortCalc.exe.config
+C:\Projects\MortgageBandit\EatRESTMortCalc\EatRESTMortCalc\obj\Debug\EatRESTMortCalc.exe
+C:\Projects\MortgageBandit\EatRESTMortCalc\EatRESTMortCalc\obj\Debug\EatRESTMortCalc.pdb

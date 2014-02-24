@@ -1,0 +1,4 @@
+C:\Projects\XMLService\XMLService\bin\Release\XMLService.dll
+C:\Projects\XMLService\XMLService\bin\Release\XMLService.pdb
+C:\Projects\XMLService\XMLService\obj\Release\XMLService.dll
+C:\Projects\XMLService\XMLService\obj\Release\XMLService.pdb

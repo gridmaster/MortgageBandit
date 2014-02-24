@@ -1,0 +1,8 @@
+C:\Projects\TestJson\TestJson\bin\Debug\TestJson.exe.config
+C:\Projects\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+C:\Projects\TestJson\TestJson\bin\Debug\TestJson.exe
+C:\Projects\TestJson\TestJson\bin\Debug\TestJson.pdb
+C:\Projects\TestJson\TestJson\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TestJson\TestJson\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\TestJson\TestJson\obj\Debug\TestJson.exe
+C:\Projects\TestJson\TestJson\obj\Debug\TestJson.pdb
